@@ -1,6 +1,6 @@
 # Electron Wayback Machine Downloader
 
-Desktop application to download a website with all of it's internal links and assets to your local machine.
+Desktop application to download entire website from the Internet Archive Wayback Machine with all of it's internal links and assets to your local machine.
 
 ![alt tag](https://raw.githubusercontent.com/wouterverweirder/electron-website-downloader/master/screengrab.gif)
 
