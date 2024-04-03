@@ -1,4 +1,4 @@
-# Electron Website Downloader
+# Electron Wayback Machine Downloader
 
 Desktop application to download a website with all of it's internal links and assets to your local machine.
 
